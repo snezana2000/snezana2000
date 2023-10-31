@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there. I am Snezana 👋
 
-<!--
-**snezana2000/snezana2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+About me:
 
-Here are some ideas to get you started:
+- 🔭 Now I'm working on creating autotests
+- 🌱I'm currently studying to become a programmer
+- 🤔 I sometimes need help with my homework
+- 💬 Ask me about Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to contact me:
+     - email: ignatovas795@gmail.com
+    - Telegram: [hot_sneg](https://t.me/hot_sneg)
+ 
+Fun fact: I love snowboarding
+
