@@ -11,5 +11,5 @@ About me:
 - email: ignatovas795@gmail.com
 - Telegram: [hot_sneg](https://t.me/hot_sneg)
  
-Fun fact: I love snowboarding ❄️
+Fun fact: I love snowboarding and i have ф husband and two children❄️
 
