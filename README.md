@@ -1,4 +1,4 @@
-### Hi there. I am Snezana 👋
+### Hi there! I am Snezana 👋
 
 About me:
 
