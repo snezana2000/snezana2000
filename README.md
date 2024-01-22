@@ -1,6 +1,6 @@
-### Hi there! I am Snezana 👋
+## Hi there! I am Snezana 👋
 
-About me:
+#### About me:
 
 - 🛠 Now I'm working on creating autotests
 - 📚I'm currently studying to become a programmer
